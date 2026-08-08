@@ -835,7 +835,7 @@ pterodactyl_menu() {
 
     while true; do
 
-        header "PTERODACTYL INSTALLER"
+        header "PTERODACTYL INSTALLER (NOT WORKING)"
 
         echo
         echo "  [1] Install Panel"
